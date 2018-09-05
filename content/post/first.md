@@ -8,7 +8,7 @@ draft: false
 
 It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
 
-{{< youtube CSwoCvd4QIc >}}
-<caption><a href="https://www.youtube.com/watch?v=CSwoCvd4QIc">Launch Your FREE, Fast Website with Netlify - Step-by-Step Guide</a></caption>
+{{< youtube 1jf96rs8X4Q >}}
+<caption><a href="https://www.youtube.com/watch?v=1jf96rs8X4Q">Launch Your FREE, Fast Website with Netlify - Step-by-Step Guide</a></caption>
 
 This is too much!!!
