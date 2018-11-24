@@ -14,11 +14,14 @@ It is a long established fact that a reader will be distracted by the readable c
 This is too much!!!
 
 <table style="width:100%">
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
-  </tr>
+  <thead>
+    <tr>
+      <th>Firstname</th>
+      <th>Lastname</th> 
+      <th>Age</th>
+    </tr>
+  </thead>
+  <tbody>  
   <tr>
     <td>Jill</td>
     <td>Smith</td>
@@ -34,4 +37,5 @@ This is too much!!!
     <td>Doe</td>
     <td>80</td>
   </tr>
+    </tbody>
 </table>
